@@ -20,6 +20,12 @@ https://www.braintreepayments.com/sandbox?_ga=1.165187318.898026747.1607234358
 
 Runs the app in the development mode.<br />
 
+### `Key features`
+1. Login using jwt( JSON WEB TOKEN). <br />
+2. Private routes for accessing dashboard link. <br />
+3. Payment Gateway using braintree payments and stripe. <br/>
+4. Functional rendereing of components. <br/>
+
 # SCREENSHOTS
 ![image](images/image1.JPG)
 ![image](images/image2.JPG)
